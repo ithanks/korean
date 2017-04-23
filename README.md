@@ -1,8 +1,8 @@
 # korean
-korean all document
+korean all document<br>
 
-mkdir <repo>
-cd <repo>
+mkdir <repo><br>
+cd <repo><br>
 git init
 git remote add -f origin <url>
 git config core.sparseCheckout true
